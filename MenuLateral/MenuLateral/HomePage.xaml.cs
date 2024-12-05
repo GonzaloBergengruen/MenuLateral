@@ -9,15 +9,6 @@ namespace MenuLateral
         }
     }
 
-    public class ServiciosAsignadosPage : ContentPage
-    {
-        public ServiciosAsignadosPage()
-        {
-            Title = "Servicios Asignados";
-            Content = new Label { Text = "Página de Servicios Asignados" };
-        }
-    }
-
     public class ConfiguracionPage : ContentPage
     {
         public ConfiguracionPage()

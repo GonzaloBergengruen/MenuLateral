@@ -10,13 +10,16 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="DatosPersonalesPage.xaml">
+    <MauiXaml Update="UI\DatosPersonalesPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="HomePage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="MainFlyoutPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="UI\ServiciosAsignadosPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

@@ -1049,3 +1049,4 @@ D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-android\stamp\_ConvertRe
 D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-android\MenuLateral.sourcelink.json

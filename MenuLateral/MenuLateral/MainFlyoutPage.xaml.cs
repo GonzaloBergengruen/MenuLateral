@@ -16,7 +16,6 @@ namespace MenuLateral
                 new MenuItem { Title = "Inicio", TargetPage = typeof(HomePage) },
                 new MenuItem { Title = "Datos Personales", TargetPage = typeof(DatosPersonalesPage) },
                 new MenuItem { Title = "Servicios Asignados", TargetPage = typeof(ServiciosAsignadosPage) },
-                new MenuItem { Title = "Configuración", TargetPage = typeof(ConfiguracionPage) }
             };
 
             MenuItems.ItemsSource = menuItems;

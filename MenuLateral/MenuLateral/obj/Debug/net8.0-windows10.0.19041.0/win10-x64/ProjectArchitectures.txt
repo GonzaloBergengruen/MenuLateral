@@ -1,1 +1,0 @@
-D:\MenuLateral\MenuLateral\MenuLateral\MenuLateral.csproj;x64

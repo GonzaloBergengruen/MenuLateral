@@ -1,44 +1,70 @@
 ﻿using System.Collections.ObjectModel;
-using System.Net.Http;
-using System.Text.Json;
-using System.Threading.Tasks;
-using System.Linq;
+using MenuLateral.Models;
+using System.Windows.Input;
 
 namespace MenuLateral.ViewModels
 {
-    public class ServiciosAsignadosViewModel
+    public class ServiciosAsignadosViewModel : BindableObject
     {
         public ObservableCollection<Servicio> ServiciosFiltrados { get; set; }
+        public Servicio ServicioSeleccionado { get; set; }
+        public bool DetalleVisible { get; set; }
+        public ICommand MostrarDetalleCommand { get; }
+        public ICommand CerrarDetalleCommand { get; }
+        public ICommand RechazarServicioCommand { get; }
 
         public ServiciosAsignadosViewModel()
         {
             ServiciosFiltrados = new ObservableCollection<Servicio>();
-            CargarServiciosAsync().ConfigureAwait(false);
+            MostrarDetalleCommand = new Command<Servicio>(MostrarDetallesServicio);
+            CerrarDetalleCommand = new Command(() => DetalleVisible = false);
+            RechazarServicioCommand = new Command(RechazarServicio);
+            Task.Run(async () => await CargarServiciosAsync());
+        }
+
+        public void MostrarDetallesServicio(Servicio servicio)
+        {
+            ServicioSeleccionado = servicio;
+            DetalleVisible = true;
+            OnPropertyChanged(nameof(ServicioSeleccionado));
+            OnPropertyChanged(nameof(DetalleVisible));
+        }
+
+        private void RechazarServicio()
+        {
+            if (ServicioSeleccionado != null)
+            {
+                ServiciosFiltrados.Remove(ServicioSeleccionado);
+                DetalleVisible = false;
+                OnPropertyChanged(nameof(DetalleVisible));
+            }
         }
 
         private async Task CargarServiciosAsync()
         {
-            var servicios = new List<Servicio>();
-            var serv1 = new Servicio();
-            serv1.Id = 1;
-            serv1.Estado = 1;
-            var serv2 = new Servicio();
-            serv2.Id = 2;
-            serv2.Estado = 2;
-            var serv3 = new Servicio();
-            serv3.Id = 3;
-            serv3.Estado = 3;
-            servicios.Add(serv1);
-            servicios.Add(serv2);
-            servicios.Add(serv3);
-            if (servicios != null)
+            try
             {
+                // Simulación de datos locales en lugar de consumir una API
+                var servicios = new List<Servicio>
+                {
+                    new Servicio { Id = 1, Estado = 0, HoraComienzo = DateTime.Now.AddHours(1), Detalle = "Revisión técnica", Precio = 100 },
+                    new Servicio { Id = 2, Estado = 1, HoraComienzo = DateTime.Now.AddHours(3), Detalle = "Cambio de aceite", Precio = 50 },
+                    new Servicio { Id = 3, Estado = 2, HoraComienzo = DateTime.Now.AddHours(5), Detalle = "Lavado completo", Precio = 30 }
+                };
+
+                // Filtramos los servicios por estado permitido
                 var filtrados = servicios.Where(s => s.Estado == 0 || s.Estado == 1 || s.Estado == 2);
+
+                // Agregamos los servicios filtrados a la colección observable
                 foreach (var servicio in filtrados)
                 {
-                    servicio.EstadoTexto = EstadoToString(servicio.Estado);
                     ServiciosFiltrados.Add(servicio);
                 }
+            }
+            catch (Exception ex)
+            {
+                // Manejo de errores
+                await Application.Current.MainPage.DisplayAlert("Error", $"Ocurrió un error al cargar los servicios: {ex.Message}", "OK");
             }
 
             //using var client = new HttpClient();
@@ -71,13 +97,6 @@ namespace MenuLateral.ViewModels
                 1 => "Agendado",
                 2 => "En ejecucion"
             };
-        }
-
-        public class Servicio
-        {
-            public int Id { get; set; }
-            public int Estado { get; set; }
-            public string EstadoTexto { get; set; }
         }
     }
 }

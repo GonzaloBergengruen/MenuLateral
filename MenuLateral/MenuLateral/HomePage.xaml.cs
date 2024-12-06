@@ -8,13 +8,4 @@ namespace MenuLateral
             InitializeComponent();
         }
     }
-
-    public class ConfiguracionPage : ContentPage
-    {
-        public ConfiguracionPage()
-        {
-            Title = "Configuración";
-            Content = new Label { Text = "Página de Configuración" };
-        }
-    }
 }

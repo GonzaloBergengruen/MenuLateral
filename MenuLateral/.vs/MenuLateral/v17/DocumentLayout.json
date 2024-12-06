@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\MenuLateral\\MenuLateral\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\serviciosasignadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\serviciosasignadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\datospersonalespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\datospersonalespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\serviciosasignadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\serviciosasignadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\viewmodels\\serviciosasignadosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\viewmodels\\serviciosasignadosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\serviciosasignadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\serviciosasignadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\serviciosasignadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\serviciosasignadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\datospersonalespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\datospersonalespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\mainflyoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\mainflyoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,80 +42,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DatosPersonalesPage.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\DatosPersonalesPage.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\DatosPersonalesPage.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\DatosPersonalesPage.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\UI\\DatosPersonalesPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "MenuLateral\\Models\\Servicio.cs",
+              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\Models\\Servicio.cs",
+              "RelativeToolTip": "MenuLateral\\Models\\Servicio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:44:28.138Z",
+              "WhenOpened": "2024-12-06T18:00:57.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ServiciosAsignadosViewModel.cs",
               "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\ServiciosAsignadosViewModel.cs",
               "RelativeDocumentMoniker": "MenuLateral\\ViewModels\\ServiciosAsignadosViewModel.cs",
               "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\ServiciosAsignadosViewModel.cs",
               "RelativeToolTip": "MenuLateral\\ViewModels\\ServiciosAsignadosViewModel.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwDAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T18:31:08.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DatosPersonalesPage.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\DatosPersonalesPage.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\DatosPersonalesPage.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\DatosPersonalesPage.xaml",
-              "RelativeToolTip": "MenuLateral\\UI\\DatosPersonalesPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-05T18:26:24.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiciosAsignadosPage.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:25:01.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ServiciosAsignadosPage.xaml",
               "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
               "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
               "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
               "RelativeToolTip": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-05T18:24:10.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainFlyoutPage.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MainFlyoutPage.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\MainFlyoutPage.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MainFlyoutPage.xaml",
-              "RelativeToolTip": "MenuLateral\\MainFlyoutPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-05T16:25:53.258Z"
+              "DocumentIndex": 2,
+              "Title": "ServiciosAsignadosPage.xaml.cs",
+              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
+              "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
+              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
+              "RelativeToolTip": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:25:01.626Z",
+              "EditorCaption": ""
             }
           ]
         }

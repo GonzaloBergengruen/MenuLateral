@@ -19,6 +19,9 @@
     <MauiXaml Update="MainFlyoutPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="UI\DetallesServicioPopup.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="UI\ServiciosAsignadosPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

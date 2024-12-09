@@ -66,6 +66,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.UI.DatosPerson
 build_metadata.AdditionalFiles.TargetPath = UI\DatosPersonalesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = UI\DatosPersonalesPage.xaml
 
+[D:/MenuLateral/MenuLateral/MenuLateral/UI/DetallesServicioPopup.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.UI.DetallesServicioPopup.xaml
+build_metadata.AdditionalFiles.TargetPath = UI\DetallesServicioPopup.xaml
+build_metadata.AdditionalFiles.RelativePath = UI\DetallesServicioPopup.xaml
+
 [D:/MenuLateral/MenuLateral/MenuLateral/UI/ServiciosAsignadosPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.UI.ServiciosAsignadosPage.xaml

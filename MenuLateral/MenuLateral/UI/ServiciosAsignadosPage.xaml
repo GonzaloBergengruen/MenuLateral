@@ -1,44 +1,45 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MenuLateral.ServiciosAsignadosPage"
              xmlns:vm="clr-namespace:MenuLateral.ViewModels"
-             Title="ServiciosAsignadosPage">
+             x:Class="MenuLateral.ServiciosAsignadosPage"
+             Title="Servicios Asignados">
 
-    <StackLayout>
-        <Label Text="Servicios Asignados" HorizontalOptions="Center"/>
+    <VerticalStackLayout Padding="20" Spacing="5">
 
+        <!-- Encabezados de la Tabla -->
+        <Grid ColumnDefinitions="*,*" RowDefinitions="Auto" BackgroundColor="LightGray">
+            <Label Text="Id" FontAttributes="Bold" Grid.Column="0" Padding="5"
+                   HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Black"/>
+            <Label Text="Estado" FontAttributes="Bold" Grid.Column="1" 
+                   HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Black"/>
+
+        <!-- Separador Vertical entre columnas -->
+        <BoxView Grid.Column="1" WidthRequest="1" Color="Black" HorizontalOptions="Start"/>
+        </Grid>
+
+        <!-- Lista de Servicios -->
         <CollectionView ItemsSource="{Binding ServiciosFiltrados}" SelectionMode="Single"
                         SelectionChanged="OnServicioClicked">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <Grid Padding="10" ColumnDefinitions="*,*">
-                        <Label Text="{Binding Id}" Grid.Column="0">
-                            <Label.GestureRecognizers>
-                                <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type vm:ServiciosAsignadosViewModel}}, Path=MostrarDetalleCommand}"
-                                                      CommandParameter="{Binding .}" />
-                            </Label.GestureRecognizers>
-                        </Label>
-                        <Label Text="{Binding Estado}" Grid.Column="1"/>
+                    <Grid ColumnDefinitions="*,*" RowDefinitions="Auto,*" BackgroundColor="White">
+                        
+                        <!-- Fila de Datos -->
+                        <Label Text="{Binding Id}" Grid.Column="0" Grid.Row="0" Padding="10"
+                               HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Blue" FontAttributes="Bold"/>
+
+                        <Label Text="{Binding EstadoTexto}" Grid.Column="1" Grid.Row="0" 
+                               HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Black"/>
+
+                        <BoxView Grid.Column="1" WidthRequest="1" Color="Black" HorizontalOptions="Start" />
+
+                        <!-- Separador Horizontal -->
+                        <BoxView Grid.Row="1" Grid.ColumnSpan="2" HeightRequest="1" Color="Black" WidthRequest="500"/>
                     </Grid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>
 
-        <Frame IsVisible="{Binding DetallesVisible}" Padding="20" CornerRadius="10" BorderColor="Gray"
-               BackgroundColor="White">
-            <StackLayout>
-                <Label Text="Detalles del Servicio" FontAttributes="Bold" FontSize="18" HorizontalOptions="Center" />
-                <Label Text="{Binding ServicioSeleccionado.HoraComienzo, StringFormat='Hora de Comienzo: {0:dd/MM/yyyy HH:mm}'}" />
-                <Label Text="{Binding ServicioSeleccionado.Detalle, StringFormat='Detalle: {0}'}" />
-                <Label Text="{Binding ServicioSeleccionado.Precio, StringFormat='Precio ${0}'}" />
-
-                <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="Center">
-                    <Button Text="Salir" Command="{Binding CerrarDetalleCommand}" />
-                    <Button Text="Rechazar" Command="{Binding RechazarServicioCommand}" />
-                </StackLayout>
-            </StackLayout>
-        </Frame>
-    </StackLayout>
-
+    </VerticalStackLayout>
 </ContentPage>

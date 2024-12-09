@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-06T17:42:09.579</Modified>
+      <Modified>2024-12-09T17:12:53.553</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-06T17:42:09.263</Modified>
+      <Modified>2024-12-09T17:12:53.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MenuLateral.runtimeconfig.json">
       <PackagePath>MenuLateral.runtimeconfig.json</PackagePath>
-      <Modified>2024-12-05T16:50:22.273</Modified>
+      <Modified>2024-12-09T17:12:52.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MenuLateral.dll">
       <PackagePath>MenuLateral.dll</PackagePath>
-      <Modified>2024-12-06T17:42:07.035</Modified>
+      <Modified>2024-12-09T17:12:50.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MenuLateral.exe</PackagePath>
-      <Modified>2024-12-06T17:42:07.221</Modified>
+      <Modified>2024-12-09T17:12:50.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-12-05T15:59:56.888</Modified>
+      <Modified>2024-12-06T18:41:00.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-12-05T15:59:56.919</Modified>
+      <Modified>2024-12-06T18:41:00.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-12-05T15:59:56.935</Modified>
+      <Modified>2024-12-06T18:41:00.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-12-05T15:59:56.988</Modified>
+      <Modified>2024-12-06T18:41:00.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-12-05T15:59:57.150</Modified>
+      <Modified>2024-12-06T18:41:01.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -84,211 +84,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-12-05T15:59:59.022</Modified>
+      <Modified>2024-12-06T18:41:03.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.858</Modified>
+      <Modified>2024-12-06T18:41:03.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.843</Modified>
+      <Modified>2024-12-06T18:41:03.777</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.843</Modified>
+      <Modified>2024-12-06T18:41:03.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.843</Modified>
+      <Modified>2024-12-06T18:41:03.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.827</Modified>
+      <Modified>2024-12-06T18:41:03.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.953</Modified>
+      <Modified>2024-12-06T18:41:03.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.953</Modified>
+      <Modified>2024-12-06T18:41:03.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.937</Modified>
+      <Modified>2024-12-06T18:41:03.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.937</Modified>
+      <Modified>2024-12-06T18:41:03.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.937</Modified>
+      <Modified>2024-12-06T18:41:03.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.969</Modified>
+      <Modified>2024-12-06T18:41:03.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.969</Modified>
+      <Modified>2024-12-06T18:41:03.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.953</Modified>
+      <Modified>2024-12-06T18:41:03.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.969</Modified>
+      <Modified>2024-12-06T18:41:03.872</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.953</Modified>
+      <Modified>2024-12-06T18:41:03.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.006</Modified>
+      <Modified>2024-12-06T18:41:03.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.006</Modified>
+      <Modified>2024-12-06T18:41:03.910</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.006</Modified>
+      <Modified>2024-12-06T18:41:03.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.006</Modified>
+      <Modified>2024-12-06T18:41:03.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.991</Modified>
+      <Modified>2024-12-06T18:41:03.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.991</Modified>
+      <Modified>2024-12-06T18:41:03.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.991</Modified>
+      <Modified>2024-12-06T18:41:03.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.984</Modified>
+      <Modified>2024-12-06T18:41:03.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.991</Modified>
+      <Modified>2024-12-06T18:41:03.889</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.984</Modified>
+      <Modified>2024-12-06T18:41:03.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.890</Modified>
+      <Modified>2024-12-06T18:41:03.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.890</Modified>
+      <Modified>2024-12-06T18:41:03.809</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.890</Modified>
+      <Modified>2024-12-06T18:41:03.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.874</Modified>
+      <Modified>2024-12-06T18:41:03.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.874</Modified>
+      <Modified>2024-12-06T18:41:03.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.906</Modified>
+      <Modified>2024-12-06T18:41:03.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.906</Modified>
+      <Modified>2024-12-06T18:41:03.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.906</Modified>
+      <Modified>2024-12-06T18:41:03.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.906</Modified>
+      <Modified>2024-12-06T18:41:03.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.890</Modified>
+      <Modified>2024-12-06T18:41:03.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.937</Modified>
+      <Modified>2024-12-06T18:41:03.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.922</Modified>
+      <Modified>2024-12-06T18:41:03.843</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.922</Modified>
+      <Modified>2024-12-06T18:41:03.840</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.922</Modified>
+      <Modified>2024-12-06T18:41:03.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.922</Modified>
+      <Modified>2024-12-06T18:41:03.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.874</Modified>
+      <Modified>2024-12-06T18:41:03.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.874</Modified>
+      <Modified>2024-12-06T18:41:03.794</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.858</Modified>
+      <Modified>2024-12-06T18:41:03.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.858</Modified>
+      <Modified>2024-12-06T18:41:03.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-12-05T15:59:58.858</Modified>
+      <Modified>2024-12-06T18:41:03.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.038</Modified>
+      <Modified>2024-12-06T18:41:03.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.038</Modified>
+      <Modified>2024-12-06T18:41:03.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.038</Modified>
+      <Modified>2024-12-06T18:41:03.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.022</Modified>
+      <Modified>2024-12-06T18:41:03.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-12-05T15:59:59.022</Modified>
+      <Modified>2024-12-06T18:41:03.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MenuLateral.deps.json">
       <PackagePath>MenuLateral.deps.json</PackagePath>
-      <Modified>2024-12-06T17:42:08.718</Modified>
+      <Modified>2024-12-09T17:12:52.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -297,6 +297,14 @@
     <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2024-10-14T22:26:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\communitytoolkit.maui\9.1.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+      <Modified>2024-11-08T09:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\communitytoolkit.maui.core\9.1.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+      <Modified>2024-11-08T09:03:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -429,6 +437,10 @@
     <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-06-26T19:15:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+      <Modified>2023-10-31T15:00:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

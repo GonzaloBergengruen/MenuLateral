@@ -8,7 +8,16 @@ namespace MenuLateral.ViewModels
     {
         public ObservableCollection<Servicio> ServiciosFiltrados { get; set; }
         public Servicio ServicioSeleccionado { get; set; }
-        public bool DetalleVisible { get; set; }
+        private bool _detallesVisibles;
+        public bool DetalleVisible
+        {
+            get => _detallesVisibles;
+            set
+            {
+                _detallesVisibles = value;
+                OnPropertyChanged();
+            }
+        }
         public ICommand MostrarDetalleCommand { get; }
         public ICommand CerrarDetalleCommand { get; }
         public ICommand RechazarServicioCommand { get; }
@@ -16,9 +25,8 @@ namespace MenuLateral.ViewModels
         public ServiciosAsignadosViewModel()
         {
             ServiciosFiltrados = new ObservableCollection<Servicio>();
+            DetalleVisible = false;
             MostrarDetalleCommand = new Command<Servicio>(MostrarDetallesServicio);
-            CerrarDetalleCommand = new Command(() => DetalleVisible = false);
-            RechazarServicioCommand = new Command(RechazarServicio);
             Task.Run(async () => await CargarServiciosAsync());
         }
 
@@ -27,17 +35,6 @@ namespace MenuLateral.ViewModels
             ServicioSeleccionado = servicio;
             DetalleVisible = true;
             OnPropertyChanged(nameof(ServicioSeleccionado));
-            OnPropertyChanged(nameof(DetalleVisible));
-        }
-
-        private void RechazarServicio()
-        {
-            if (ServicioSeleccionado != null)
-            {
-                ServiciosFiltrados.Remove(ServicioSeleccionado);
-                DetalleVisible = false;
-                OnPropertyChanged(nameof(DetalleVisible));
-            }
         }
 
         private async Task CargarServiciosAsync()
@@ -49,7 +46,8 @@ namespace MenuLateral.ViewModels
                 {
                     new Servicio { Id = 1, Estado = 0, HoraComienzo = DateTime.Now.AddHours(1), Detalle = "Revisión técnica", Precio = 100 },
                     new Servicio { Id = 2, Estado = 1, HoraComienzo = DateTime.Now.AddHours(3), Detalle = "Cambio de aceite", Precio = 50 },
-                    new Servicio { Id = 3, Estado = 2, HoraComienzo = DateTime.Now.AddHours(5), Detalle = "Lavado completo", Precio = 30 }
+                    new Servicio { Id = 3, Estado = 2, HoraComienzo = DateTime.Now.AddHours(5), Detalle = "Lavado completo", Precio = 30 },
+                    new Servicio { Id = 4, Estado = 5, HoraComienzo = DateTime.Now.AddHours(2), Detalle = "Algo", Precio = 100}
                 };
 
                 // Filtramos los servicios por estado permitido
@@ -58,6 +56,7 @@ namespace MenuLateral.ViewModels
                 // Agregamos los servicios filtrados a la colección observable
                 foreach (var servicio in filtrados)
                 {
+                    servicio.EstadoTexto = EstadoToString(servicio.Estado);
                     ServiciosFiltrados.Add(servicio);
                 }
             }
@@ -95,7 +94,8 @@ namespace MenuLateral.ViewModels
             {
                 0 => "Solicitado",
                 1 => "Agendado",
-                2 => "En ejecucion"
+                2 => "En ejecucion",
+                _ => ""
             };
         }
     }

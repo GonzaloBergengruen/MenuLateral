@@ -12,6 +12,7 @@ namespace MenuLateral.Models
         public int Estado { get; set; }
         public string EstadoTexto { get; set; }
         public DateTime HoraComienzo {  get; set; }
+        public DateTime HoraFin {  get; set; }
         public string Detalle {  get; set; }
         public short Precio { get; set; }
     }

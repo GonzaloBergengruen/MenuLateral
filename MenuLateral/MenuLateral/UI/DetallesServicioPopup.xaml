@@ -10,12 +10,14 @@
             <Label Text="Detalles del Servicio" FontAttributes="Bold" FontSize="18" HorizontalOptions="Center"/>
 
             <Label Text="{Binding HoraComienzo, StringFormat='Hora de Comienzo: {0:dd/MM/yyyy HH:mm}'}" TextColor="Black"/>
-            <Label Text="{Binding Detalle, StringFormat='Detalle {0}'}" TextColor="Black"/>
-            <Label Text="{Binding Precio, StringFormat='Precio ${0}'}" TextColor="Black"/>
+            <Label Text="{Binding HoraFinalizacion, StringFormat='Hora de la Finalizacion: {0:dd/MM/yyyy HH:mm}'}" TextColor="Black" 
+                   IsVisible="False"/>
+            <Label Text="{Binding Detalle, StringFormat='Detalle: {0}'}" TextColor="Black"/>
+            <Label Text="{Binding Precio, StringFormat='Precio: ${0}'}" TextColor="Black"/>
 
             <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="Center">
                 <Button Text="Salir" Clicked="CerrarPopup"/>
-                <Button Text="Rechazar" Clicked="RechazarServicio"/>
+                <Button IsVisible="{Binding Tipo}" Text="Rechazar" Clicked="RechazarServicio"/>
             </StackLayout>
         </StackLayout>
     </Frame>

@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using MenuLateral.UI;
 using Microsoft.Maui.Controls;
 
 namespace MenuLateral
@@ -16,6 +17,7 @@ namespace MenuLateral
                 new MenuItem { Title = "Inicio", TargetPage = typeof(HomePage) },
                 new MenuItem { Title = "Datos Personales", TargetPage = typeof(DatosPersonalesPage) },
                 new MenuItem { Title = "Servicios Asignados", TargetPage = typeof(ServiciosAsignadosPage) },
+                new MenuItem { Title= "Servicios Completados", TargetPage = typeof(ServiciosCompletadosPage)},
             };
 
             MenuItems.ItemsSource = menuItems;

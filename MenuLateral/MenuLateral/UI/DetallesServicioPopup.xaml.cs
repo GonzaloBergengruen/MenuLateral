@@ -5,7 +5,7 @@ namespace MenuLateral.UI
 {
     public partial class DetallesServicioPopup : Popup
     {
-        public DetallesServicioPopup(Servicio servicio)
+        public DetallesServicioPopup(Servicio servicio, bool tipo)
         {
             InitializeComponent();
             BindingContext = servicio;

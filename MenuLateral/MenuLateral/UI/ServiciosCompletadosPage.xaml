@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MenuLateral.UI.ServiciosCompletadosPage"
+             Title="ServiciosCompletadosPage">
+
+    <VerticalStackLayout Padding="20" Spacing="5">
+
+        <!-- Encabezados de la Tabla -->
+        <Grid ColumnDefinitions="*,*" RowDefinitions="Auto" BackgroundColor="LightGray">
+            <Label Text="Id" FontAttributes="Bold" Grid.Column="0" Padding="5"
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Black"/>
+            <Label Text="Estado" FontAttributes="Bold" Grid.Column="1" 
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Black"/>
+
+            <!-- Separador Vertical entre columnas -->
+            <BoxView Grid.Column="1" WidthRequest="1" Color="Black" HorizontalOptions="Start"/>
+        </Grid>
+
+        <!-- Lista de Servicios -->
+        <CollectionView ItemsSource="{Binding ServiciosFiltrados}" SelectionMode="Single"
+                    SelectionChanged="OnServicioClicked">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid ColumnDefinitions="*,*" RowDefinitions="Auto,*" BackgroundColor="White">
+
+                        <!-- Fila de Datos -->
+                        <Label Text="{Binding Id}" Grid.Column="0" Grid.Row="0" Padding="10"
+                           HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Blue" FontAttributes="Bold"/>
+
+                        <Label Text="{Binding EstadoTexto}" Grid.Column="1" Grid.Row="0" 
+                           HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Black"/>
+
+                        <BoxView Grid.Column="1" WidthRequest="1" Color="Black" HorizontalOptions="Start" />
+
+                        <!-- Separador Horizontal -->
+                        <BoxView Grid.Row="1" Grid.ColumnSpan="2" HeightRequest="1" Color="Black" WidthRequest="500"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+
+</ContentPage>

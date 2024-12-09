@@ -77,3 +77,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.UI.ServiciosAsignadosPage.xaml
 build_metadata.AdditionalFiles.TargetPath = UI\ServiciosAsignadosPage.xaml
 build_metadata.AdditionalFiles.RelativePath = UI\ServiciosAsignadosPage.xaml
+
+[D:/MenuLateral/MenuLateral/MenuLateral/UI/ServiciosCompletadosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.UI.ServiciosCompletadosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UI\ServiciosCompletadosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UI\ServiciosCompletadosPage.xaml

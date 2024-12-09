@@ -19,8 +19,6 @@ namespace MenuLateral.ViewModels
             }
         }
         public ICommand MostrarDetalleCommand { get; }
-        public ICommand CerrarDetalleCommand { get; }
-        public ICommand RechazarServicioCommand { get; }
 
         public ServiciosAsignadosViewModel()
         {

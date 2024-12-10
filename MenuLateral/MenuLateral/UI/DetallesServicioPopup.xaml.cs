@@ -1,23 +1,25 @@
 using CommunityToolkit.Maui.Views;
 using MenuLateral.Models;
+using MenuLateral.ViewModels;
 
 namespace MenuLateral.UI
 {
     public partial class DetallesServicioPopup : Popup
     {
-        public DetallesServicioPopup(Servicio servicio, bool tipo)
+        public DetallesServicioPopup(Servicio servicio)
         {
             InitializeComponent();
-            BindingContext = servicio;
+            BindingContext = new DetallesServicioViewModel(servicio);
         }
 
-        private void CerrarPopup(object sender, EventArgs e)
+        private void OnCerrarClicked(object sender, EventArgs e)
         {
             Close();
         }
 
-        private void RechazarServicio(object sender, EventArgs e)
+        private void OnRechazarClicked(object sender, EventArgs e)
         {
+            //Logica
             Close();
         }
     }

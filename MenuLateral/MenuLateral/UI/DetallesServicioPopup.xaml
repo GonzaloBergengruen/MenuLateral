@@ -4,21 +4,22 @@
              x:Class="MenuLateral.UI.DetallesServicioPopup"
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit">
 
-    <Frame Padding="20" CornerRadius="10" BorderColor="Gray" BackgroundColor="White" 
-           HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300">
-        <StackLayout>
-            <Label Text="Detalles del Servicio" FontAttributes="Bold" FontSize="18" HorizontalOptions="Center"/>
+    <StackLayout Padding="20" Spacing="15">
+        <Label Text="Detalles del Servicio" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" />
 
-            <Label Text="{Binding HoraComienzo, StringFormat='Hora de Comienzo: {0:dd/MM/yyyy HH:mm}'}" TextColor="Black"/>
-            <Label Text="{Binding HoraFinalizacion, StringFormat='Hora de la Finalizacion: {0:dd/MM/yyyy HH:mm}'}" TextColor="Black" 
-                   IsVisible="False"/>
-            <Label Text="{Binding Detalle, StringFormat='Detalle: {0}'}" TextColor="Black"/>
-            <Label Text="{Binding Precio, StringFormat='Precio: ${0}'}" TextColor="Black"/>
+        <Label Text="{Binding ServicioSeleccionado.Id, StringFormat='ID: {0}'}" />
+        <Label Text="{Binding ServicioSeleccionado.Detalle, StringFormat='Detalle: {0}'}" />
+        <Label Text="{Binding ServicioSeleccionado.Precio, StringFormat='Precio: ${0}'}" />
 
-            <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="Center">
-                <Button Text="Salir" Clicked="CerrarPopup"/>
-                <Button IsVisible="{Binding Tipo}" Text="Rechazar" Clicked="RechazarServicio"/>
-            </StackLayout>
+        <!-- Solo se muestra para servicios completados -->
+        <Label Text="{Binding ServicioSeleccionado.HoraFin, StringFormat='Hora Fin: {0:dd/MM/yyyy HH:mm}'}"
+               IsVisible="{Binding EsServicioCompletado}" />
+
+        <!-- Botones -->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="10">
+            <Button Text="Cerrar" Clicked="OnCerrarClicked" />
+            <Button Text="Rechazar" Clicked="OnRechazarClicked" 
+                    IsVisible="{Binding EsServicioAsignado}" />
         </StackLayout>
-    </Frame>
+    </StackLayout>
 </toolkit:Popup>

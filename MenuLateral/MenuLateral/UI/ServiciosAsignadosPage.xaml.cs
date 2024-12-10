@@ -17,7 +17,7 @@ namespace MenuLateral
         {
             if (e.CurrentSelection.FirstOrDefault() is Servicio servicioSeleccionado)
             {
-                var popup = new DetallesServicioPopup(servicioSeleccionado, true);
+                var popup = new DetallesServicioPopup(servicioSeleccionado);
                 var resultado = await this.ShowPopupAsync(popup);
 
                 if (resultado is bool servicioRechazado)

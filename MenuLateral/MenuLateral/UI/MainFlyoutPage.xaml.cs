@@ -12,30 +12,24 @@ namespace MenuLateral
             InitializeComponent();
 
             // Define las opciones del menú
-            var menuItems = new List<MenuItem>
+            var menuItems = new List<Models.MenuItem>
             {
-                new MenuItem { Title = "Inicio", TargetPage = typeof(HomePage) },
-                new MenuItem { Title = "Datos Personales", TargetPage = typeof(DatosPersonalesPage) },
-                new MenuItem { Title = "Servicios Asignados", TargetPage = typeof(ServiciosAsignadosPage) },
-                new MenuItem { Title= "Servicios Completados", TargetPage = typeof(ServiciosCompletadosPage)},
+                new Models.MenuItem ("Inicio", typeof(HomePage)),
+                new Models.MenuItem ("Datos Personales", typeof(DatosPersonalesPage)),
+                new Models.MenuItem ("Servicios Asignados", typeof(ServiciosAsignadosPage)),
+                new Models.MenuItem ("Servicios Completados", typeof(ServiciosCompletadosPage))
             };
 
             MenuItems.ItemsSource = menuItems;
 
             MenuItems.ItemTapped += (sender, e) =>
             {
-                if (e.Item is MenuItem item)
+                if (e.Item is Models.MenuItem item)
                 {
                     Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetPage));
                     IsPresented = false; // Cierra el menú
                 }
             };
         }
-    }
-
-    public class MenuItem
-    {
-        public string Title { get; set; }
-        public Type TargetPage { get; set; }
     }
 }

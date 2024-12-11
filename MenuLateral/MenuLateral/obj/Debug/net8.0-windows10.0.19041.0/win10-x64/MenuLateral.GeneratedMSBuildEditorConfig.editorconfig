@@ -34,18 +34,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/MenuLateral/MenuLateral/MenuLateral/HomePage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.HomePage.xaml
-build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
-build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
-
-[D:/MenuLateral/MenuLateral/MenuLateral/MainFlyoutPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.MainFlyoutPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainFlyoutPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainFlyoutPage.xaml
-
 [D:/MenuLateral/MenuLateral/MenuLateral/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.MainPage.xaml
@@ -75,6 +63,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.UI.DetallesServicioPopup.xaml
 build_metadata.AdditionalFiles.TargetPath = UI\DetallesServicioPopup.xaml
 build_metadata.AdditionalFiles.RelativePath = UI\DetallesServicioPopup.xaml
+
+[D:/MenuLateral/MenuLateral/MenuLateral/UI/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.UI.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = UI\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = UI\HomePage.xaml
+
+[D:/MenuLateral/MenuLateral/MenuLateral/UI/MainFlyoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MenuLateral.UI.MainFlyoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UI\MainFlyoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UI\MainFlyoutPage.xaml
 
 [D:/MenuLateral/MenuLateral/MenuLateral/UI/ServiciosAsignadosPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

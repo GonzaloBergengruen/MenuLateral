@@ -27,7 +27,9 @@ namespace MenuLateral
                 if (e.Item is Models.MenuItem item)
                 {
                     Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetPage));
+#if !WINDOWS
                     IsPresented = false; // Cierra el menú
+#endif
                 }
             };
         }

@@ -12,7 +12,7 @@
                           SelectionMode="None">
                     <ListView.ItemTemplate>
                         <DataTemplate>
-                            <TextCell Text="{Binding Title}" TextColor="White"/>
+                            <TextCell Text="{Binding Title}" TextColor="Red"/>
                         </DataTemplate>
                     </ListView.ItemTemplate>
                 </ListView>

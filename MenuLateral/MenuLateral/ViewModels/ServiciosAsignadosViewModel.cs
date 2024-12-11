@@ -47,14 +47,13 @@ namespace MenuLateral.ViewModels
                     new Servicio { Id = 3, Estado = 2, HoraComienzo = DateTime.Now.AddHours(5), Detalle = "Lavado completo", Precio = 30 },
                     new Servicio { Id = 4, Estado = 5, HoraComienzo = DateTime.Now.AddHours(2), Detalle = "Algo", Precio = 100}
                 };
-
+               
                 // Filtramos los servicios por estado permitido
                 var filtrados = servicios.Where(s => s.Estado == 0 || s.Estado == 1 || s.Estado == 2);
 
                 // Agregamos los servicios filtrados a la colección observable
                 foreach (var servicio in filtrados)
                 {
-                    servicio.EstadoTexto = EstadoToString(servicio.Estado);
                     ServiciosFiltrados.Add(servicio);
                 }
             }

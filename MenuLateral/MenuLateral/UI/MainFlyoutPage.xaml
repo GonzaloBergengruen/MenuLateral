@@ -7,7 +7,7 @@
     <FlyoutPage.Flyout>
         <ContentPage Title="Menú"
                      IconImageSource="menu_icon.png">
-            <StackLayout Padding="20">
+            <StackLayout Padding="20" >
                 <ListView x:Name="MenuItems"
                           SelectionMode="None">
                     <ListView.ItemTemplate>

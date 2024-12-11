@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-11T18:16:27.856</Modified>
+      <Modified>2024-12-11T18:37:59.977</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-11T18:13:27.527</Modified>
+      <Modified>2024-12-11T18:33:19.085</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MenuLateral.runtimeconfig.json">
       <PackagePath>MenuLateral.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MenuLateral.dll">
       <PackagePath>MenuLateral.dll</PackagePath>
-      <Modified>2024-12-11T18:16:26.517</Modified>
+      <Modified>2024-12-11T18:37:59.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MenuLateral.exe</PackagePath>
-      <Modified>2024-12-11T18:16:26.607</Modified>
+      <Modified>2024-12-11T18:37:59.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MenuLateral.deps.json">
       <PackagePath>MenuLateral.deps.json</PackagePath>
-      <Modified>2024-12-11T18:13:27.225</Modified>
+      <Modified>2024-12-11T18:33:18.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gonzalob\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

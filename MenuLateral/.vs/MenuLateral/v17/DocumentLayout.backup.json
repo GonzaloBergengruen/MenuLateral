@@ -3,100 +3,28 @@
   "WorkspaceRootPath": "D:\\MenuLateral\\MenuLateral\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\mainflyoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\mainflyoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\mainflyoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\mainflyoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\menulateral.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\menulateral.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\viewmodels\\servicioscompletadosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\viewmodels\\servicioscompletadosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\viewmodels\\serviciosasignadosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\viewmodels\\serviciosasignadosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\servicioscompletadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\servicioscompletadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\detallesserviciopopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\detallesserviciopopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\detallesserviciopopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\detallesserviciopopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\viewmodels\\detallesservicioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\viewmodels\\detallesservicioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\viewmodels\\datospersonalesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\viewmodels\\datospersonalesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\servicioscompletadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\servicioscompletadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\serviciosasignadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\serviciosasignadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\serviciosasignadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\serviciosasignadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\ui\\servicioscompletadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\ui\\servicioscompletadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|d:\\menulateral\\menulateral\\menulateral\\converters\\estadotostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10ED59A-A029-4F45-A242-CE3FEB7F2616}|MenuLateral\\MenuLateral.csproj|solutionrelative:menulateral\\converters\\estadotostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -123,292 +51,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainFlyoutPage.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\MainFlyoutPage.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\MainFlyoutPage.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\MainFlyoutPage.xaml",
-              "RelativeToolTip": "MenuLateral\\UI\\MainFlyoutPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T18:13:18.599Z",
+              "Title": "ServiciosAsignadosViewModel.cs",
+              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\ServiciosAsignadosViewModel.cs",
+              "RelativeDocumentMoniker": "MenuLateral\\ViewModels\\ServiciosAsignadosViewModel.cs",
+              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\ServiciosAsignadosViewModel.cs",
+              "RelativeToolTip": "MenuLateral\\ViewModels\\ServiciosAsignadosViewModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:32:33.246Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainFlyoutPage.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\MainFlyoutPage.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\MainFlyoutPage.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\MainFlyoutPage.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\UI\\MainFlyoutPage.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:39:03.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\MauiProgram.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MauiProgram.cs",
-              "RelativeToolTip": "MenuLateral\\MauiProgram.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T18:03:13.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\MainPage.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MainPage.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:45:10.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\MainPage.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MainPage.xaml",
-              "RelativeToolTip": "MenuLateral\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T17:45:15.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\AppShell.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\AppShell.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:44:48.04Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\AppShell.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\AppShell.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\AppShell.xaml",
-              "RelativeToolTip": "MenuLateral\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T17:44:31.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\App.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\App.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:44:35.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\HomePage.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\HomePage.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\UI\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:39:01.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\HomePage.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\HomePage.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\HomePage.xaml",
-              "RelativeToolTip": "MenuLateral\\UI\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T18:03:23.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuLateral.csproj",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MenuLateral.csproj",
-              "RelativeDocumentMoniker": "MenuLateral\\MenuLateral.csproj",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\MenuLateral.csproj",
-              "RelativeToolTip": "MenuLateral\\MenuLateral.csproj",
-              "ViewState": "AgIAADoAAAAAAAAAAAAqwEUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T18:07:59.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\App.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\App.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\App.xaml",
-              "RelativeToolTip": "MenuLateral\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T17:44:33.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\Models\\MenuItem.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\Models\\MenuItem.cs",
-              "RelativeToolTip": "MenuLateral\\Models\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:39:22.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DetallesServicioViewModel.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\DetallesServicioViewModel.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\ViewModels\\DetallesServicioViewModel.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\DetallesServicioViewModel.cs",
-              "RelativeToolTip": "MenuLateral\\ViewModels\\DetallesServicioViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:57:15.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\ViewModels\\BaseViewModel.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\BaseViewModel.cs",
-              "RelativeToolTip": "MenuLateral\\ViewModels\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:40:35.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DatosPersonalesViewModel.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\DatosPersonalesViewModel.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\ViewModels\\DatosPersonalesViewModel.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\DatosPersonalesViewModel.cs",
-              "RelativeToolTip": "MenuLateral\\ViewModels\\DatosPersonalesViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:26:38.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ServiciosCompletadosPage.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosCompletadosPage.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosCompletadosPage.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosCompletadosPage.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\UI\\ServiciosCompletadosPage.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:27:27.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ServiciosCompletadosViewModel.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\ServiciosCompletadosViewModel.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\ViewModels\\ServiciosCompletadosViewModel.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\ServiciosCompletadosViewModel.cs",
-              "RelativeToolTip": "MenuLateral\\ViewModels\\ServiciosCompletadosViewModel.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwBEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:24:08.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DetallesServicioPopup.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\DetallesServicioPopup.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\DetallesServicioPopup.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\DetallesServicioPopup.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\UI\\DetallesServicioPopup.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:05:56.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DetallesServicioPopup.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\DetallesServicioPopup.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\DetallesServicioPopup.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\DetallesServicioPopup.xaml",
-              "RelativeToolTip": "MenuLateral\\UI\\DetallesServicioPopup.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-09T18:08:01.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ServiciosAsignadosPage.xaml",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
-              "RelativeToolTip": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-09T18:43:51.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ServiciosAsignadosPage.xaml.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
-              "RelativeToolTip": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBQAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:06:42.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "ServiciosCompletadosPage.xaml",
               "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosCompletadosPage.xaml",
               "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosCompletadosPage.xaml",
               "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosCompletadosPage.xaml",
               "RelativeToolTip": "MenuLateral\\UI\\ServiciosCompletadosPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-10T15:21:24.209Z"
+              "WhenOpened": "2024-12-11T18:30:25.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Servicio.cs",
-              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\Models\\Servicio.cs",
-              "RelativeDocumentMoniker": "MenuLateral\\Models\\Servicio.cs",
-              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\Models\\Servicio.cs",
-              "RelativeToolTip": "MenuLateral\\Models\\Servicio.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIA2wA4AAAAuAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ServiciosCompletadosPage.xaml.cs",
+              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosCompletadosPage.xaml.cs",
+              "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosCompletadosPage.xaml.cs",
+              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosCompletadosPage.xaml.cs",
+              "RelativeToolTip": "MenuLateral\\UI\\ServiciosCompletadosPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:25:07.727Z"
+              "WhenOpened": "2024-12-11T18:30:14.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiciosCompletadosViewModel.cs",
+              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\ServiciosCompletadosViewModel.cs",
+              "RelativeDocumentMoniker": "MenuLateral\\ViewModels\\ServiciosCompletadosViewModel.cs",
+              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\ViewModels\\ServiciosCompletadosViewModel.cs",
+              "RelativeToolTip": "MenuLateral\\ViewModels\\ServiciosCompletadosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:28:44.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiciosAsignadosPage.xaml",
+              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
+              "RelativeDocumentMoniker": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
+              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
+              "RelativeToolTip": "MenuLateral\\UI\\ServiciosAsignadosPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:31:36.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstadoToStringConverter.cs",
+              "DocumentMoniker": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\Converters\\EstadoToStringConverter.cs",
+              "RelativeDocumentMoniker": "MenuLateral\\Converters\\EstadoToStringConverter.cs",
+              "ToolTip": "D:\\MenuLateral\\MenuLateral\\MenuLateral\\Converters\\EstadoToStringConverter.cs",
+              "RelativeToolTip": "MenuLateral\\Converters\\EstadoToStringConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:28:17.75Z",
+              "EditorCaption": ""
             }
           ]
         }

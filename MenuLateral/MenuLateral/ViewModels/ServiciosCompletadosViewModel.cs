@@ -54,7 +54,6 @@ namespace MenuLateral.ViewModels
                 // Agregamos los servicios filtrados a la colección observable
                 foreach (var servicio in filtrados)
                 {
-                    servicio.EstadoTexto = EstadoToString(servicio.Estado);
                     ServiciosFiltrados.Add(servicio);
                 }
             }
@@ -63,17 +62,6 @@ namespace MenuLateral.ViewModels
                 // Manejo de errores
                 await Application.Current.MainPage.DisplayAlert("Error", $"Ocurrió un error al cargar los servicios: {ex.Message}", "OK");
             }
-        }
-
-        private string EstadoToString(int estado)
-        {
-            return estado switch
-            {
-                3 => "Ejecutando",
-                4 => "Validando",
-                5 => "Facturado",
-                _ => ""
-            };
         }
     }
 }

@@ -2,10 +2,17 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:vm="clr-namespace:MenuLateral.ViewModels"
+             xmlns:local="clr-namespace:MenuLateral.Converters"
              x:Class="MenuLateral.ServiciosAsignadosPage"
              Title="Servicios Asignados">
 
-    <VerticalStackLayout Padding="20" Spacing="5">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:EstadoToStringConverter x:Key="EstadoConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <VerticalStackLayout Padding="20">
 
         <!-- Encabezados de la Tabla -->
         <Grid ColumnDefinitions="*,*" RowDefinitions="Auto" BackgroundColor="LightGray">
@@ -14,8 +21,8 @@
             <Label Text="Estado" FontAttributes="Bold" Grid.Column="1" 
                    HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Black"/>
 
-        <!-- Separador Vertical entre columnas -->
-        <BoxView Grid.Column="1" WidthRequest="1" Color="Black" HorizontalOptions="Start"/>
+            <!-- Separador Vertical entre columnas -->
+            <BoxView Grid.Column="1" WidthRequest="1" Color="Black" HorizontalOptions="Start"/>
         </Grid>
 
         <!-- Lista de Servicios -->
@@ -24,18 +31,19 @@
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <Grid ColumnDefinitions="*,*" RowDefinitions="Auto,*" BackgroundColor="White">
-                        
+
                         <!-- Fila de Datos -->
                         <Label Text="{Binding Id}" Grid.Column="0" Grid.Row="0" Padding="10"
                                HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Blue" FontAttributes="Bold"/>
 
-                        <Label Text="{Binding EstadoTexto}" Grid.Column="1" Grid.Row="0" 
-                               HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Black"/>
+                        <Label Text="{Binding Estado, Converter={StaticResource EstadoConverter}}"
+                            Grid.Column="1" Grid.Row="0" HorizontalTextAlignment="Center"
+                            VerticalTextAlignment="Center" TextColor="Black"/>
 
                         <BoxView Grid.Column="1" WidthRequest="1" Color="Black" HorizontalOptions="Start" />
 
                         <!-- Separador Horizontal -->
-                        <BoxView Grid.Row="1" Grid.ColumnSpan="2" HeightRequest="1" Color="Black" WidthRequest="500"/>
+                        <BoxView Grid.Row="1" Grid.ColumnSpan="2" HeightRequest="1" Color="Black" WidthRequest="9000"/>
                     </Grid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>

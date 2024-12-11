@@ -1,7 +1,6 @@
 using MenuLateral.Models;
 using MenuLateral.ViewModels;
 using CommunityToolkit.Maui.Views;
-using MenuLateral.UI;
 
 namespace MenuLateral.UI
 {

@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-11T18:37:59.977</Modified>
+      <Modified>2024-12-12T14:50:44.716</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MenuLateral.dll">
       <PackagePath>MenuLateral.dll</PackagePath>
-      <Modified>2024-12-11T18:37:59.337</Modified>
+      <Modified>2024-12-12T14:50:42.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MenuLateral.exe</PackagePath>
-      <Modified>2024-12-11T18:37:59.386</Modified>
+      <Modified>2024-12-12T14:50:42.409</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\MenuLateral\MenuLateral\MenuLateral\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
